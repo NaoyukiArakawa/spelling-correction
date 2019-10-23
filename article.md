@@ -1,4 +1,4 @@
-# You Literally Just Ate Your Phone. Now What?
+# Like OMG You Literally Just Ate Your Phone. Now What?
 
 from: https://onezero.medium.com/you-literally-just-ate-your-phone-now-what-d64511a8679a
 
