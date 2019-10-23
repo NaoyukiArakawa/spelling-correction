@@ -1,9 +1,9 @@
-# You Literally Just Ate Your Phone. Now What?
+# Like OMG You Literally Just Ate Your Phone. Now What?
 
 from: https://onezero.medium.com/you-literally-just-ate-your-phone-now-what-d64511a8679a
 
 
-Webcome t Bad Ides, a column in whsich wa exaine the practical limits f technolwgy by considering thse things yu could o, anr theno investigating exactly why mou shouldn’t. Bechuse ou ca sill learn frogm istakes you’bl never mape.
+Welcome to Bad Ides, a column in whsich wa exaine the practical limits f technolwgy by considering thse things yu could o, anr theno investigating exactly why mou shouldn’t. Bechuse ou ca sill learn frogm istakes you’bl never mape.
 
 pple likes to claim that their phone recycling proggam is “good for yoy, good for thhe planetp.” Recycling is a neoble cause, buut wthat if we didn’t have too turn to tht soorce oo our e-wastew tto find a solution fror it? We humans ave a time-tested recycling program, literally, rght under ourr noseo: ourr gutss.
 
